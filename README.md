@@ -4,6 +4,13 @@
 
 This is an example of a Landing page created purely with CSS and html. This webpage was build in order to practice writing and cleaning up CSS and HTML Code. Throughout working on this project I have learnt how to better optimize my code to not have less repeating lines, as well as to use proper html tags to achieve my desired goal.
 
+The webpage is accessible at https://dvidal1209.github.io/module-1-challenge/.
+
+## Screenshots
+
+![Horiseon Landing page Screenshot (Upper)](./assets/images/Horiseon%201.jpg)
+![Horiseon Landing page Screenshot (Lower)](./assets/images/Horiseon%202.jpg)
+
 ## Tests
 
 You can go ahead and check to see whether the navigation bar works on this page. To do so simply click on the headings at the top of the page ( Search Engine Optimization || Online Reputation Management || Social Media Marketing)
