@@ -75,6 +75,23 @@ p {
     margin-left: 20px;
 }
 
+.content-card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-card img {
+    max-height: 200px;
+}
+
+.content-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,40 +117,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.content-card {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-card img {
-    max-height: 200px;
-}
-
-.content-card h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 
 .footer {
     padding: 30px;
